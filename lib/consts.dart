@@ -1,1 +1,1 @@
-final key = 'what the fudsdck';
+const OPEN_AI_KEY = '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';// yeah

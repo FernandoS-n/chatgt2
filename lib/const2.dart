@@ -1,1 +1,0 @@
-const OPEN_AI_KEY = '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';// yeah
